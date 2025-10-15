@@ -10,3 +10,5 @@ in the current directory and its subdirectories. git add -A Adds all changes acr
 the entire repository, including deletions, even outside the current directory.
 3. git push uploads your commits to a remote repository, such as one hosted on GitHub. 
 git pull fetches the commits from a remote repository and merges with your local branch.
+4. Fetch gets the commits from a remote repository but doesn't merge it with your local
+branch. Pull gets the commits and merges it with your local branch.
