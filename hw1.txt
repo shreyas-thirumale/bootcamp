@@ -1,0 +1,4 @@
+1. “What is the difference between Git and GitHub?”
+2. “What’s the difference between ‘git add <file>’, ‘git add .’, and ‘git add -A’
+3. “What does git push do? What does git pull do?”
+4. “What’s the difference between fetch and pull?”
