@@ -5,3 +5,6 @@
 
 1. Git is a version control system while allows you to host Git repositories online 
 to be shared, stored, and collaborated on.
+2. Git add <file> adds a specific file to the staging area. git add . adds all changes
+in the current directory and its subdirectories. git add -A Adds all changes across 
+the entire repository, including deletions, even outside the current directory.
